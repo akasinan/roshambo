@@ -37,3 +37,5 @@ The distribution of the work was as follows:
 - Sinan Cetin focused on the map organization/creation, collision detection, and making sure that all our individual work fit well into the code.<br />
 
 The music heard in this game was made by Brendan and Sinan.
+
+To play the game on the browser use this link: https://akasinan.github.io/roshambo/
