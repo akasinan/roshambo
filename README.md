@@ -34,7 +34,7 @@ The distribution of the work was as follows:
 - Cecilia Dos Santos focused on the scissor enemies, textures, the particles/physics as seen in the different rooms.
 - Elton Ong focused on creating the rock and paper enemy, and reflections.
 - Brendan Tanaka focused on implementing bump mapping and tile system for the maze. Implemented the sound for the game.
-- Sinan Cetin focused on the map organization/creation, collision detection, and making sure that all our individual work fit well into the code.<br />
+- Sinan Cetin focused on the map organization/creation, player movement, collision detection, and making sure that all our individual work fit well into the code.<br />
 
 The music heard in this game was made by Brendan and Sinan.
 
